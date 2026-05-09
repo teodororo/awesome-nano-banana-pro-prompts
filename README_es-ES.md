@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **13195** |
+| 📝 Total de prompts | **13194** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **sábado, 9 de mayo de 2026, 8:29:47 UTC** |
+| 🔄 Última actualización | **sábado, 9 de mayo de 2026, 12:14:32 UTC** |
 
 </div>
 
@@ -1576,59 +1576,7 @@ Un sofisticado prompt monocromático para un retrato masculino inspirado en el c
 
 ---
 
-### No. 22: Publicación en redes sociales - Retrato de moda urbana y cruda en un baño
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt de fotografía cinematográfica de una mujer con un minivestido brillante aplicándose lápiz labial en un baño público descuidado y lleno de grafitis, con una iluminación rosa dramática.
-
-#### 📝 Prompt
-
-```
-Una fotografía cinematográfica altamente detallada de una {argument name="subject" default="joven hermosa con cabello largo, ondulado y rubio fuego, piel clara y pecas tenues"}, de pie en un {argument name="setting" default="baño público descuidado y sucio con azulejos de color verde claro descascarados, cubiertos de grafitis coloridos y pegatinas"}. Lleva puesto un {argument name="outfit" default="elegante minivestido blanco brillante sin tirantes"} y se está aplicando un lápiz labial rojo vibrante con el tubo en su mano derecha, mientras su mano izquierda descansa sobre el borde de un lavabo. Tiene la cabeza ligeramente girada hacia un lado con una mirada de confianza. El entorno presenta espejos agrietados con reflejos, basura y papeles esparcidos por el suelo y las encimeras, un pequeño grafiti que dice 'Keor' en algún lugar, un tubo de luz fluorescente rosa en el techo que proyecta una iluminación dramática en tonos rosa y cálidos, paredes dañadas y una atmósfera urbana cruda en general, con gran detalle, texturas realistas y una composición cinematográfica temperamental.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310303285_nu9ni2_HHz1W6OWEAQ7fMT.jpg" width="600" alt="Publicación en redes sociales - Retrato de moda urbana y cruda en un baño - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310303318_oofcxo_HHz1XFWWwAIqvyw.jpg" width="600" alt="Publicación en redes sociales - Retrato de moda urbana y cruda en un baño - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310303448_okmixe_HHz1XMEX0AEECI5.jpg" width="600" alt="Publicación en redes sociales - Retrato de moda urbana y cruda en un baño - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310304437_0fgjsf_HHz1XT9XYAICZbt.jpg" width="600" alt="Publicación en redes sociales - Retrato de moda urbana y cruda en un baño - Image 4">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [KeorUnreal](https://x.com/KeorUnreal)
-- **Fuente:** [Twitter Post](https://x.com/KeorUnreal/status/2052785320970572141)
-- **Publicado:** 8 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=18999)**
-
----
-
-### No. 23: Publicación en redes sociales - Retrato editorial con piruleta de corazón
+### No. 22: Publicación en redes sociales - Retrato editorial con piruleta de corazón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1668,7 +1616,7 @@ Un retrato en primer plano de una hermosa {argument name="subject" default="jove
 
 ---
 
-### No. 24: Publicación en redes sociales - Modelo latina con mezclilla desgastada y fondo de madera
+### No. 23: Publicación en redes sociales - Modelo latina con mezclilla desgastada y fondo de madera
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1754,7 +1702,7 @@ Un prompt fotográfico de alta resolución de una mujer joven con ropa deportiva
 
 ---
 
-### No. 25: Publicación en redes sociales - Fotografía de estilo de vida en dormitorio moderno minimalista
+### No. 24: Publicación en redes sociales - Fotografía de estilo de vida en dormitorio moderno minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1824,7 +1772,7 @@ usa image1 exactamente como el ancla de identidad
 
 ---
 
-### No. 26: Publicación en redes sociales - Editorial de moda en interiores parisinos
+### No. 25: Publicación en redes sociales - Editorial de moda en interiores parisinos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1900,7 +1848,7 @@ Un completo set de prompts para un editorial de alta costura ambientado en un cl
 
 ---
 
-### No. 27: Publicación en redes sociales - Acogedor dormitorio por la mañana con un gato
+### No. 26: Publicación en redes sociales - Acogedor dormitorio por la mañana con un gato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1945,7 +1893,7 @@ Un retrato matutino de una mujer con camisón de satén acostada en una cama con
 
 ---
 
-### No. 28: Publicación en redes sociales - Retrato cinematográfico de un santuario urbano
+### No. 27: Publicación en redes sociales - Retrato cinematográfico de un santuario urbano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1978,7 +1926,7 @@ Un retrato urbano cinematográfico de una mujer con un top cruzado y falda de sa
 
 ---
 
-### No. 29: Publicación en redes sociales - Editorial de moda de lujo en yate
+### No. 28: Publicación en redes sociales - Editorial de moda de lujo en yate
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2049,7 +1997,7 @@ Un prompt estructurado de editorial de moda para una mujer joven en un yate de l
 
 ---
 
-### No. 30: Publicación en redes sociales - Boudoir de alta costura con fondo futurista al estilo Van Gogh
+### No. 29: Publicación en redes sociales - Boudoir de alta costura con fondo futurista al estilo Van Gogh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2095,7 +2043,7 @@ Un prompt de boudoir de alta costura que presenta a una modelo con un vestido de
 
 ---
 
-### No. 31: Publicación en redes sociales - Retrato de Sadie Sink con un sari rojo tradicional
+### No. 30: Publicación en redes sociales - Retrato de Sadie Sink con un sari rojo tradicional
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2144,6 +2092,40 @@ Una {argument name="subject" default="joven hermosa"} de piel clara, impactantes
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=18992)**
+
+---
+
+### No. 31: Publicación en redes sociales - Retrato de moda de alta costura inspirado en un zorro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un retrato cinematográfico ultrarrealista de una mujer con alta costura inspirada en un zorro, ambientado en un bosque otoñal con un zorro real como acompañante.
+
+#### 📝 Prompt
+
+```
+Un retrato de moda cinematográfico ultrarrealista de una hermosa mujer joven con {argument name="facial description" default="[insertar descripción facial o "la mujer de la foto adjunta"]"}, posando con una actitud editorial reflexiva y la mano cerca de la barbilla. Viste un impresionante vestido de alta costura inspirado en un zorro en una paleta de colores naranja quemado, ámbar, cobre y crema, con intrincados bordados, capas de gasa y delicadas texturas de piel sintética. Un pequeño y majestuoso zorro se sienta a su lado, mirándola con afecto. La escena está ambientada en un bosque otoñal bañado por el sol durante la hora dorada, con suaves rayos de luz (rayos crepusculares) filtrándose a través de los árboles. Estética de revista de lujo, resolución 8k, fondo con efecto bokeh profundo, delineador de ojos alado definido, maquillaje en tonos melocotón radiantes, estilo de fotografía de alta costura.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778310305876_4w3qi9_HHyFSZbbIAA-H_Z.jpg" width="600" alt="Publicación en redes sociales - Retrato de moda de alta costura inspirado en un zorro - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Zyrella](https://x.com/Zyrellix)
+- **Fuente:** [Twitter Post](https://x.com/Zyrellix/status/2052662085377773881)
+- **Publicado:** 8 de mayo de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=19002)**
 
 ---
 
@@ -4534,41 +4516,7 @@ Un anuncio de moda de alta gama para la {argument name="collection" default="EMA
 
 ---
 
-### No. 88: Marketing de producto - Retrato de moda de alta costura inspirado en un zorro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un retrato cinematográfico ultrarrealista de una mujer con alta costura inspirada en un zorro, ambientado en un bosque otoñal con un zorro real como acompañante.
-
-#### 📝 Prompt
-
-```
-Un retrato de moda cinematográfico ultrarrealista de una hermosa mujer joven con {argument name="facial description" default="[insertar descripción facial o "la mujer de la foto adjunta"]"}, posando con una actitud editorial reflexiva y la mano cerca de la barbilla. Viste un impresionante vestido de alta costura inspirado en un zorro en una paleta de colores naranja quemado, ámbar, cobre y crema, con intrincados bordados, capas de gasa y delicadas texturas de piel sintética. Un pequeño y majestuoso zorro se sienta a su lado, mirándola con afecto. La escena está ambientada en un bosque otoñal bañado por el sol durante la hora dorada, con suaves rayos de luz (rayos crepusculares) filtrándose a través de los árboles. Estética de revista de lujo, resolución 8k, fondo con efecto bokeh profundo, delineador de ojos alado definido, maquillaje en tonos melocotón radiantes, estilo de fotografía de alta costura.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310305876_4w3qi9_HHyFSZbbIAA-H_Z.jpg" width="600" alt="Marketing de producto - Retrato de moda de alta costura inspirado en un zorro - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Zyrella](https://x.com/Zyrellix)
-- **Fuente:** [Twitter Post](https://x.com/Zyrellix/status/2052662085377773881)
-- **Publicado:** 8 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=19002)**
-
----
-
-### No. 89: Marketing de producto - Retrato de moda con claroscuro dramático
+### No. 88: Marketing de producto - Retrato de moda con claroscuro dramático
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4602,7 +4550,7 @@ Un retrato de alta costura de una mujer que luce una impactante sombra de ojos {
 
 ---
 
-### No. 90: Marketing de producto - Editorial de moda con chaqueta de ante
+### No. 89: Marketing de producto - Editorial de moda con chaqueta de ante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4635,7 +4583,7 @@ Un prompt editorial de moda minimalista que presenta una chaqueta de ante, joyer
 
 ---
 
-### No. 91: Marketing de producto - Retrato de estudio de mujer pelirroja en traje de baño
+### No. 90: Marketing de producto - Retrato de estudio de mujer pelirroja en traje de baño
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4674,7 +4622,7 @@ Un prompt estructurado para un retrato de estudio de cuerpo completo. La modelo 
 
 ---
 
-### No. 92: Marketing de producto - Retrato editorial de moda en el Coliseo Romano
+### No. 91: Marketing de producto - Retrato editorial de moda en el Coliseo Romano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4720,7 +4668,7 @@ Un impresionante retrato editorial de moda en primer plano con calidad de museo 
 
 ---
 
-### No. 93: Imagen principal de e-commerce - Fotografía gastronómica de ensalada mediterránea
+### No. 92: Imagen principal de e-commerce - Fotografía gastronómica de ensalada mediterránea
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4770,7 +4718,7 @@ Prompt de fotografía gastronómica comercial de alta gama para una ensalada med
 
 ---
 
-### No. 94: Imagen principal de e-commerce - Anuncio de paleta de maquillaje de lujo
+### No. 93: Imagen principal de e-commerce - Anuncio de paleta de maquillaje de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4804,7 +4752,7 @@ Un anuncio profesional para "{argument name="brand" default="AM Cosmetics"}" que
 
 ---
 
-### No. 95: Imagen principal de e-commerce - Fotografía cinematográfica de productos cosméticos
+### No. 94: Imagen principal de e-commerce - Fotografía cinematográfica de productos cosméticos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4838,7 +4786,7 @@ Una foto de producto de frente de un {argument name="product" default="tubo cosm
 
 ---
 
-### No. 96: Imagen principal de e-commerce - Fotografía de productos de cuidado de la piel de lujo
+### No. 95: Imagen principal de e-commerce - Fotografía de productos de cuidado de la piel de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4872,7 +4820,7 @@ Fotografía de producto de alta resolución para una lujosa colección de cuidad
 
 ---
 
-### No. 97: Imagen principal de e-commerce - Retrato de moda en estudio con patrón abstracto
+### No. 96: Imagen principal de e-commerce - Retrato de moda en estudio con patrón abstracto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4906,7 +4854,7 @@ Un prompt de fotografía de estudio profesional para una mujer con un conjunto a
 
 ---
 
-### No. 98: Imagen principal de e-commerce - Interior de una acogedora casa de campo inglesa con portátil
+### No. 97: Imagen principal de e-commerce - Interior de una acogedora casa de campo inglesa con portátil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4946,7 +4894,7 @@ Cámara: Sony A7R V, objetivo de 50mm f/1.4, nitidez 8K, texturas naturales de p
 
 ---
 
-### No. 99: Imagen principal de e-commerce - Selfie en espejo de boutique ultra realista
+### No. 98: Imagen principal de e-commerce - Selfie en espejo de boutique ultra realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5074,7 +5022,7 @@ Un prompt técnico detallado para generar una selfie en espejo con smartphone hi
 
 ---
 
-### No. 100: Imagen principal de e-commerce - Paseo en scooter europeo vintage
+### No. 99: Imagen principal de e-commerce - Paseo en scooter europeo vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5108,7 +5056,7 @@ Una toma cinematográfica de estilo de vida de un hombre bien vestido conduciend
 
 ---
 
-### No. 101: Imagen principal de e-commerce - Anuncio de producto de cuidado de la piel orgánico
+### No. 100: Imagen principal de e-commerce - Anuncio de producto de cuidado de la piel orgánico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5142,7 +5090,7 @@ organicismo atmosférico inspirado en la naturaleza: Un anuncio de producto atmo
 
 ---
 
-### No. 102: Imagen principal de e-commerce - Fotografía de producto cosmético de lujo
+### No. 101: Imagen principal de e-commerce - Fotografía de producto cosmético de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5176,7 +5124,7 @@ Fotografía premium de producto cosmético de {argument name="product" default="
 
 ---
 
-### No. 103: Imagen principal de e-commerce - Mockup de camiseta con grupo de gatos de dibujos animados
+### No. 102: Imagen principal de e-commerce - Mockup de camiseta con grupo de gatos de dibujos animados
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5209,7 +5157,7 @@ Fotografía de producto ultra realista desde arriba de una camiseta con cuello e
 
 ---
 
-### No. 104: Imagen principal de e-commerce - Transformación de coche fotorrealista
+### No. 103: Imagen principal de e-commerce - Transformación de coche fotorrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5243,7 +5191,7 @@ convierte esto en un fotorrealismo de un {argument name="car type" default="coch
 
 ---
 
-### No. 105: Imagen principal de e-commerce - Fotografía explosiva de jugo de pitahaya
+### No. 104: Imagen principal de e-commerce - Fotografía explosiva de jugo de pitahaya
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5277,7 +5225,7 @@ En el aire, una {argument name="fruit" default="pitahaya"} se parte de forma exp
 
 ---
 
-### No. 106: Imagen principal de e-commerce - Diseño macro de cronógrafo de lujo
+### No. 105: Imagen principal de e-commerce - Diseño macro de cronógrafo de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5311,7 +5259,7 @@ Un prompt de fotografía macro de alta gama para un reloj de lujo, centrado en l
 
 ---
 
-### No. 107: Imagen principal de e-commerce - Fotografía de producto con temática cítrica
+### No. 106: Imagen principal de e-commerce - Fotografía de producto con temática cítrica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5345,7 +5293,7 @@ Un frasco de {argument name=\"bottle color\" default=\"amarillo anaranjado brill
 
 ---
 
-### No. 108: Imagen principal de e-commerce - Diseño de taza macro editorial
+### No. 107: Imagen principal de e-commerce - Diseño de taza macro editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5379,7 +5327,7 @@ Un prompt de diseño de producto fotorrealista y limpio para una taza de cerámi
 
 ---
 
-### No. 109: Imagen principal de e-commerce - Anuncio de producto de cuidado de la piel con sandía y burbujas
+### No. 108: Imagen principal de e-commerce - Anuncio de producto de cuidado de la piel con sandía y burbujas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5414,7 +5362,7 @@ Burbujas de jabón transparentes flotan en el aire, reflejando la luz con sutile
 
 ---
 
-### No. 110: Imagen principal de e-commerce - Prompt de estilo Knolling para flat-lay con piezas desmontadas y etiquetadas
+### No. 109: Imagen principal de e-commerce - Prompt de estilo Knolling para flat-lay con piezas desmontadas y etiquetadas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5454,7 +5402,7 @@ Fotografía de producto cenital en 8K ultrarrealista con composición knolling p
 
 ---
 
-### No. 111: Activo de juego - Visualización abstracta y geométrica de una ciudad
+### No. 110: Activo de juego - Visualización abstracta y geométrica de una ciudad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5514,7 +5462,7 @@ Generate(G) → Image
 
 ---
 
-### No. 112: Activo de juego - Arquitectura de núcleo mecánico
+### No. 111: Activo de juego - Arquitectura de núcleo mecánico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5548,7 +5496,7 @@ Un {argument name="subject" default="núcleo"} mecánico con una estructura esqu
 
 ---
 
-### No. 113: Activo de juego - Monje digital del ciberespiritualismo
+### No. 112: Activo de juego - Monje digital del ciberespiritualismo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5582,7 +5530,7 @@ Un misterioso {argument name="subject" default="monje futurista"} sentado solo e
 
 ---
 
-### No. 114: Activo de juego - Creador de patrones de cuentas Perler
+### No. 113: Activo de juego - Creador de patrones de cuentas Perler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5615,7 +5563,7 @@ Convierte la imagen en un patrón de cuentas Perler, preservando los contornos e
 
 ---
 
-### No. 115: Activo de juego - Póster de collage heroico estilo Nature-Punk
+### No. 114: Activo de juego - Póster de collage heroico estilo Nature-Punk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5649,7 +5597,7 @@ Un prompt de collage editorial complejo para un póster de personaje heroico con
 
 ---
 
-### No. 116: Activo de juego - Hacker ciberpunk de neón
+### No. 115: Activo de juego - Hacker ciberpunk de neón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5683,7 +5631,7 @@ Un {argument name="subject" default="joven con cabello plateado ondulado de long
 
 ---
 
-### No. 117: Activo de juego - Escultura mecánica steampunk intrincada
+### No. 116: Activo de juego - Escultura mecánica steampunk intrincada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5735,7 +5683,7 @@ Crea esculturas steampunk hiperrealistas con detalles victorianos de latón, cob
 
 ---
 
-### No. 118: Activo de juego - Fondo nocturno de Gotham City
+### No. 117: Activo de juego - Fondo nocturno de Gotham City
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5769,7 +5717,7 @@ Cinematográfico ultrarrealista de {argument name="city style" default="ciudad a
 
 ---
 
-### No. 119: Activo de juego - Escena de seguridad aeroportuaria cyberpunk
+### No. 118: Activo de juego - Escena de seguridad aeroportuaria cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5809,7 +5757,7 @@ Cámara: Capturada con una cámara con lente anamórfica de 1.55x (equiv. 50mm),
 
 ---
 
-### No. 120: Activo de juego - Retrato de superhéroe urbano y realista
+### No. 119: Activo de juego - Retrato de superhéroe urbano y realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5861,13 +5809,111 @@ retrato cinematográfico de la persona en la imagen proporcionada reimaginada co
 
 ---
 
+### No. 120: Activo de juego - Batalla cinematográfica de una guerrera de fantasía
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt cinematográfico altamente detallado para una guerrera de fantasía en una escena de batalla durante la hora dorada, con armadura intrincada y movimiento dinámico.
+
+#### 📝 Prompt
+
+```
+{
+    "subject": {
+        "description": "{argument name="subject description" default="Una poderosa guerrera"}",
+        "features": {
+            "hair": "largo, oscuro, azotado por el viento",
+            "expression": "intensa, decidida, seria",
+            "pose": "de pie, postura heroica, mirando directamente a la cámara",
+            "armor": {
+                "type": "híbrido de fantasía clásica",
+                "materials": ["filigrana de oro altamente pulido", "metal ennegrecido"],
+                "elements": ["coraza con motivo de león", "hombreras", "guanteletes", "grebas"],
+                "adornment": "grabados y patrones elaborados"
+            },
+            "clothing": {
+                "cape": "{argument name="cape style" default="fluida, de color rojo carmesí"}, sujeta a los hombros"
+            },
+            "weapons": {
+                "main": {
+                    "type": "{argument name="weapon type" default="espada larga con empuñadura dorada ornamentada"}",
+                    "position": "sostenida hacia abajo en la mano derecha"
+                }
+            }
+        }
+    },
+    "scene_dynamics": {
+        "event": "devastación en plena batalla / escena de acción dinámica",
+        "foreground": {
+            "elements": ["cuerpos tendidos", "armas caídas", "tierra removida"]
+        },
+        "background": {
+            "atmosphere": "campo de batalla caótico y polvoriento",
+            "action": [
+                "un guerrero a la izquierda cayendo hacia atrás, perdiendo un escudo y una espada",
+                "un guerrero a la derecha agitándose y cayendo, con los brazos en alto",
+                "objetos en el aire"
+            ]
+        },
+        "flying_objects": {
+            "items": ["múltiples espadas girando", "metralla", "terrones de tierra", "fragmentos de armadura"],
+            "effect": "movimiento dinámico congelado"
+        }
+    },
+    "environment": {
+        "ground": "tierra seca y labrada con escombros",
+        "sky": "despejado, atardecer de hora dorada, brumoso por el polvo",
+        "depth": "profundidad de campo, indicando una gran batalla de ejército en el fondo lejano"
+    },
+    "composition": {
+        "main_subject_position": "centro absoluto, cuerpo completo, dominando el encuadre",
+        "framing": "ángulo de cámara bajo mirando hacia arriba para realzar el poder",
+        "balance": "centro simétrico con caos dinámico irradiando hacia afuera",
+        "focus": "enfoque nítido en la mujer central y su armadura; elementos del fondo con desenfoque de movimiento"
+    },
+    "lighting": {
+        "source": "iluminación a contraluz por un sol poniente (hora dorada)",
+        "quality": "cálida, suave, direccional",
+        "effects": ["fuerte iluminación de contorno en el cabello y la capa", "reflejos dorados en la armadura", "partículas de polvo iluminadas en el aire"]
+    },
+    "style": {
+        "type": "fotograma cinematográfico de alta calidad",
+        "aesthetic": "fantasía oscura, realismo",
+        "color_palette": ["rojos profundos", "dorados intensos", "acero ennegrecido", "tonos tierra cálidos"],
+        "texture": "texturas altamente detalladas en cuero, metal y tela"
+    }
+}
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777792438864_li8v7g_HHR3Vs_bsAAIC7A.jpg" width="600" alt="Activo de juego - Batalla cinematográfica de una guerrera de fantasía - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [RM_Pets & Animals](https://x.com/RM_uii)
+- **Fuente:** [Twitter Post](https://x.com/RM_uii/status/2050394948265275716)
+- **Publicado:** 2 de mayo de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=17516)**
+
+---
+
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 13075 prompts más no mostrados aquí
+### 🎯 13074 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5930,6 +5976,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-09T08:29:47.630Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-09T12:14:32.070Z</sub>
 
 </div>

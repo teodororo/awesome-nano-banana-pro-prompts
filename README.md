@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **13195** |
+| 📝 Total Prompts | **13194** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Saturday, May 9, 2026 at 8:29:26 AM UTC** |
+| 🔄 Last Updated | **Saturday, May 9, 2026 at 12:13:58 PM UTC** |
 
 </div>
 
@@ -1576,59 +1576,7 @@ A sophisticated monochromatic prompt for a male portrait inspired by European ci
 
 ---
 
-### No. 22: Social Media Post - Gritty Urban Restroom Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A cinematic photograph prompt of a woman in a glitter mini dress applying lipstick in a neglected, graffiti-covered public restroom with dramatic pink lighting.
-
-#### 📝 Prompt
-
-```
-A highly detailed cinematic photograph of a {argument name="subject" default="beautiful young woman with long wavy fiery blonde hair and fair skin with light freckles"}, standing in a {argument name="setting" default="uncleaned neglected public restroom with peeling light green tiles covered in colorful graffiti and stickers"}. She is wearing a {argument name="outfit" default="sleek white glitter strapless mini dress"} and applying vibrant red lipstick with a lipstick tube in her right hand while her left hand rests on the edge of a sink. Her head is slightly turned to the side with a confident gaze. The environment features cracked mirrors with reflections, scattered trash and paper on the floor and counters, a little graffiti written 'Keor' somewhere, a pink fluorescent light tube on the ceiling casting dramatic pink and warm lighting, damaged walls, and an overall gritty urban atmosphere with high detail, realistic textures, and moody cinematic composition.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310303285_nu9ni2_HHz1W6OWEAQ7fMT.jpg" width="600" alt="Social Media Post - Gritty Urban Restroom Fashion Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310303318_oofcxo_HHz1XFWWwAIqvyw.jpg" width="600" alt="Social Media Post - Gritty Urban Restroom Fashion Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310303448_okmixe_HHz1XMEX0AEECI5.jpg" width="600" alt="Social Media Post - Gritty Urban Restroom Fashion Portrait - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310304437_0fgjsf_HHz1XT9XYAICZbt.jpg" width="600" alt="Social Media Post - Gritty Urban Restroom Fashion Portrait - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Author:** [KeorUnreal](https://x.com/KeorUnreal)
-- **Source:** [Twitter Post](https://x.com/KeorUnreal/status/2052785320970572141)
-- **Published:** May 8, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=18999)**
-
----
-
-### No. 23: Social Media Post - Heart Lollipop Editorial Portrait
+### No. 22: Social Media Post - Heart Lollipop Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1668,7 +1616,7 @@ A close-up portrait of a gorgeous {argument name="subject" default="young woman"
 
 ---
 
-### No. 24: Social Media Post - Latina Model in Distressed Denim and Wood Background
+### No. 23: Social Media Post - Latina Model in Distressed Denim and Wood Background
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1754,7 +1702,7 @@ A high-resolution photography prompt for a young woman in branded athletic wear 
 
 ---
 
-### No. 25: Social Media Post - Minimal Modern Bedroom Lifestyle Photography
+### No. 24: Social Media Post - Minimal Modern Bedroom Lifestyle Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1824,7 +1772,7 @@ use image1 exactly as the identity anchor
 
 ---
 
-### No. 26: Social Media Post - Parisian Interior Fashion Editorial
+### No. 25: Social Media Post - Parisian Interior Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1900,7 +1848,7 @@ A comprehensive high-fashion editorial prompt set in a classic Parisian interior
 
 ---
 
-### No. 27: Social Media Post - Cozy Morning Bedroom with Cat
+### No. 26: Social Media Post - Cozy Morning Bedroom with Cat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1945,7 +1893,7 @@ A morning portrait of a woman in a satin nightgown lying on a bed with a cat, fe
 
 ---
 
-### No. 28: Social Media Post - Cinematic Urban Sanctuary Portrait
+### No. 27: Social Media Post - Cinematic Urban Sanctuary Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1978,7 +1926,7 @@ A cinematic urban portrait of a woman in a wrap top and satin skirt, reclining i
 
 ---
 
-### No. 29: Social Media Post - Luxury Yacht Lifestyle Fashion Editorial
+### No. 28: Social Media Post - Luxury Yacht Lifestyle Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2049,7 +1997,7 @@ An structured fashion editorial prompt for a young woman on a luxury yacht, emph
 
 ---
 
-### No. 30: Social Media Post - High-Fashion Boudoir with Futuristic Van Gogh Backdrop
+### No. 29: Social Media Post - High-Fashion Boudoir with Futuristic Van Gogh Backdrop
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2095,7 +2043,7 @@ A high-fashion boudoir prompt featuring a model in a red satin dress against a f
 
 ---
 
-### No. 31: Social Media Post - Sadie Sink in Traditional Red Saree Portrait
+### No. 30: Social Media Post - Sadie Sink in Traditional Red Saree Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2144,6 +2092,40 @@ A {argument name="subject" default="beautiful young woman"} with fair skin, stri
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=18992)**
+
+---
+
+### No. 31: Social Media Post - Fox Inspired Couture Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+An ultra-realistic cinematic portrait of a woman in fox-inspired couture, set in an autumnal forest with a real fox companion.
+
+#### 📝 Prompt
+
+```
+An ultra-realistic cinematic fashion portrait of a beautiful young woman with {argument name="facial description" default="[insert facial description or "the woman from the attached photo"]"}, posing in a thoughtful, editorial stance with her hand near her chin. She is wearing a breathtaking fox-inspired couture gown in a palette of burnt orange, amber, copper, and cream, featuring intricate embroidery, layered chiffon, and delicate faux-fur textures. A small, majestic fox sits beside her, looking up at her affectionately. The scene is set in a sun-drenched autumnal forest during golden hour, with soft light rays (God rays) filtering through the trees. Luxury magazine aesthetic, 8k resolution, deep bokeh background, sharp winged eyeliner, glowy peach makeup, high-fashion photography style.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778310305876_4w3qi9_HHyFSZbbIAA-H_Z.jpg" width="600" alt="Social Media Post - Fox Inspired Couture Fashion Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Zyrella](https://x.com/Zyrellix)
+- **Source:** [Twitter Post](https://x.com/Zyrellix/status/2052662085377773881)
+- **Published:** May 8, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=19002)**
 
 ---
 
@@ -4534,41 +4516,7 @@ A high-end fashion advertisement for the {argument name="collection" default="EM
 
 ---
 
-### No. 88: Product Marketing - Fox Inspired Couture Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-An ultra-realistic cinematic portrait of a woman in fox-inspired couture, set in an autumnal forest with a real fox companion.
-
-#### 📝 Prompt
-
-```
-An ultra-realistic cinematic fashion portrait of a beautiful young woman with {argument name="facial description" default="[insert facial description or "the woman from the attached photo"]"}, posing in a thoughtful, editorial stance with her hand near her chin. She is wearing a breathtaking fox-inspired couture gown in a palette of burnt orange, amber, copper, and cream, featuring intricate embroidery, layered chiffon, and delicate faux-fur textures. A small, majestic fox sits beside her, looking up at her affectionately. The scene is set in a sun-drenched autumnal forest during golden hour, with soft light rays (God rays) filtering through the trees. Luxury magazine aesthetic, 8k resolution, deep bokeh background, sharp winged eyeliner, glowy peach makeup, high-fashion photography style.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778310305876_4w3qi9_HHyFSZbbIAA-H_Z.jpg" width="600" alt="Product Marketing - Fox Inspired Couture Fashion Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Zyrella](https://x.com/Zyrellix)
-- **Source:** [Twitter Post](https://x.com/Zyrellix/status/2052662085377773881)
-- **Published:** May 8, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=19002)**
-
----
-
-### No. 89: Product Marketing - Dramatic Chiaroscuro Fashion Portrait
+### No. 88: Product Marketing - Dramatic Chiaroscuro Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4602,7 +4550,7 @@ A high-fashion portrait of a woman featuring striking {argument name="eyeshadow 
 
 ---
 
-### No. 90: Product Marketing - Suede Jacket Fashion Editorial
+### No. 89: Product Marketing - Suede Jacket Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4635,7 +4583,7 @@ A minimalist fashion editorial prompt featuring a suede jacket, jewelry, and mod
 
 ---
 
-### No. 91: Product Marketing - Redhead Studio Swimsuit Portrait
+### No. 90: Product Marketing - Redhead Studio Swimsuit Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4674,7 +4622,7 @@ A structured prompt for a full-body studio portrait. The subject is a young woma
 
 ---
 
-### No. 92: Product Marketing - Roman Coliseum Fashion Editorial Portrait
+### No. 91: Product Marketing - Roman Coliseum Fashion Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4720,7 +4668,7 @@ A breathtaking museum-quality fashion editorial close-up portrait of a woman res
 
 ---
 
-### No. 93: E-commerce Main Image - Mediterranean Salad Food Photography
+### No. 92: E-commerce Main Image - Mediterranean Salad Food Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4770,7 +4718,7 @@ High-end commercial food photography prompt for a Mediterranean salad captured m
 
 ---
 
-### No. 94: E-commerce Main Image - Luxury Makeup Palette Advertisement
+### No. 93: E-commerce Main Image - Luxury Makeup Palette Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4804,7 +4752,7 @@ A professional advertisement for "{argument name="brand" default="AM Cosmetics"}
 
 ---
 
-### No. 95: E-commerce Main Image - Cinematic Cosmetic Product Photography
+### No. 94: E-commerce Main Image - Cinematic Cosmetic Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4838,7 +4786,7 @@ A front-facing product photo of a {argument name="product" default="white cosmet
 
 ---
 
-### No. 96: E-commerce Main Image - Luxury Skincare Product Photography
+### No. 95: E-commerce Main Image - Luxury Skincare Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4872,7 +4820,7 @@ High-resolution product photography for a luxurious skincare collection by "{arg
 
 ---
 
-### No. 97: E-commerce Main Image - Studio Fashion Portrait with Abstract Pattern
+### No. 96: E-commerce Main Image - Studio Fashion Portrait with Abstract Pattern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4906,7 +4854,7 @@ A professional studio photography prompt for a woman in a colorful abstract matc
 
 ---
 
-### No. 98: E-commerce Main Image - Cozy English Cottage Interior with Laptop
+### No. 97: E-commerce Main Image - Cozy English Cottage Interior with Laptop
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4946,7 +4894,7 @@ Camera: Sony A7R V, 50mm f/1.4 lens, 8K sharpness, natural skin and fabric textu
 
 ---
 
-### No. 99: E-commerce Main Image - Ultra-Realistic Boutique Mirror Selfie
+### No. 98: E-commerce Main Image - Ultra-Realistic Boutique Mirror Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5074,7 +5022,7 @@ A detailed technical prompt for generating a hyper-realistic smartphone mirror s
 
 ---
 
-### No. 100: E-commerce Main Image - Vintage European Scooter Ride
+### No. 99: E-commerce Main Image - Vintage European Scooter Ride
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5108,7 +5056,7 @@ A cinematic lifestyle shot of a well-dressed man riding a vintage cream-colored 
 
 ---
 
-### No. 101: E-commerce Main Image - Organic Skincare Product Advertisement
+### No. 100: E-commerce Main Image - Organic Skincare Product Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5142,7 +5090,7 @@ nature inspired atmospheric organicism: A nature-inspired atmospheric product ad
 
 ---
 
-### No. 102: E-commerce Main Image - Luxury Cosmetic Product Shot
+### No. 101: E-commerce Main Image - Luxury Cosmetic Product Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5176,7 +5124,7 @@ Premium cosmetic product shot of a {argument name="product" default="red glass d
 
 ---
 
-### No. 103: E-commerce Main Image - Cartoon Cat Group T-Shirt Mockup
+### No. 102: E-commerce Main Image - Cartoon Cat Group T-Shirt Mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5209,7 +5157,7 @@ Ultra-realistic top-down product photography of a neatly folded V-neck t-shirt p
 
 ---
 
-### No. 104: E-commerce Main Image - Photorealistic Car Transformation
+### No. 103: E-commerce Main Image - Photorealistic Car Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5243,7 +5191,7 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 105: E-commerce Main Image - Explosive Dragon Fruit Juice Photography
+### No. 104: E-commerce Main Image - Explosive Dragon Fruit Juice Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5277,7 +5225,7 @@ In mid-air, a {argument name="fruit" default="dragon fruit"} splits explosively,
 
 ---
 
-### No. 106: E-commerce Main Image - Luxury Chronograph Macro Design
+### No. 105: E-commerce Main Image - Luxury Chronograph Macro Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5311,7 +5259,7 @@ A high-end macro photography prompt for a luxury watch focusing on movement deta
 
 ---
 
-### No. 107: E-commerce Main Image - Citrus Product Photography
+### No. 106: E-commerce Main Image - Citrus Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5345,7 +5293,7 @@ A {argument name=\"bottle color\" default=\"bright yellow-orange\"} bottle with 
 
 ---
 
-### No. 108: E-commerce Main Image - Editorial Macro Mug Design
+### No. 107: E-commerce Main Image - Editorial Macro Mug Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5379,7 +5327,7 @@ A clean, photorealistic product design prompt for a ceramic mug with macro photo
 
 ---
 
-### No. 109: E-commerce Main Image - Skincare product advertisement with watermelon and bubbles
+### No. 108: E-commerce Main Image - Skincare product advertisement with watermelon and bubbles
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5414,7 +5362,7 @@ Transparent floating soap bubbles fill the air, reflecting light with subtle rai
 
 ---
 
-### No. 110: E-commerce Main Image - Knolling Style Flat-Lay Prompt with Labeled Disassembled Parts
+### No. 109: E-commerce Main Image - Knolling Style Flat-Lay Prompt with Labeled Disassembled Parts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5454,7 +5402,7 @@ Ultra-realistic 8K overhead product photograph in precise knolling composition, 
 
 ---
 
-### No. 111: Game Asset - Abstract Geometric City Visualization
+### No. 110: Game Asset - Abstract Geometric City Visualization
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5514,7 +5462,7 @@ Generate(G) → Image
 
 ---
 
-### No. 112: Game Asset - Mechanical Core Architecture
+### No. 111: Game Asset - Mechanical Core Architecture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5548,7 +5496,7 @@ A mechanical {argument name="subject" default="core"} with a hollow, skeletal st
 
 ---
 
-### No. 113: Game Asset - Cyber Spiritualism Digital Monk
+### No. 112: Game Asset - Cyber Spiritualism Digital Monk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5582,7 +5530,7 @@ A mysterious {argument name="subject" default="futuristic monk"} sitting alone i
 
 ---
 
-### No. 114: Game Asset - Perler Bead Pattern Creator
+### No. 113: Game Asset - Perler Bead Pattern Creator
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5615,7 +5563,7 @@ Convert the image into a Perler bead pattern, preserving the pixel-style outline
 
 ---
 
-### No. 115: Game Asset - Heroic Nature-Punk Collage Poster
+### No. 114: Game Asset - Heroic Nature-Punk Collage Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5649,7 +5597,7 @@ A complex editorial collage prompt for a heroic character poster with nature-pun
 
 ---
 
-### No. 116: Game Asset - Cyberpunk Neon Hacker
+### No. 115: Game Asset - Cyberpunk Neon Hacker
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5683,7 +5631,7 @@ A {argument name="subject" default="young man with medium-length wavy silver hai
 
 ---
 
-### No. 117: Game Asset - Intricate Steampunk Mechanical Sculpture
+### No. 116: Game Asset - Intricate Steampunk Mechanical Sculpture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5735,7 +5683,7 @@ Creates hyper-realistic steampunk sculptures with detailed brass, copper, and me
 
 ---
 
-### No. 118: Game Asset - Gotham City Night Background
+### No. 117: Game Asset - Gotham City Night Background
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5769,7 +5717,7 @@ Ultra realistic cinematic {argument name="city style" default="Gotham-style city
 
 ---
 
-### No. 119: Game Asset - Cyberpunk Airport Security Scene
+### No. 118: Game Asset - Cyberpunk Airport Security Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5809,7 +5757,7 @@ Camera: Shot on a camera with 1.55x anamorphic squeeze lens (equiv. 50mm), beaut
 
 ---
 
-### No. 120: Game Asset - Gritty Urban Superhero Portrait
+### No. 119: Game Asset - Gritty Urban Superhero Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5861,13 +5809,111 @@ cinematic portrait of the person in the provided image reimagined as a {argument
 
 ---
 
+### No. 120: Game Asset - Heroic Fantasy Warrior Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A complex, structured prompt for a powerful warrior woman in a dynamic battle scene with highly detailed gold and black armor.
+
+#### 📝 Prompt
+
+```
+{
+    "subject": {
+        "description": "{argument name="subject description" default="A powerful warrior woman"}",
+        "features": {
+            "hair": "long, dark, windswept",
+            "expression": "intense, determined, serious",
+            "pose": "standing, heroic stance, looking directly at camera",
+            "armor": {
+                "type": "fantasy-classical hybrid",
+                "materials": ["highly polished gold filigree", "blackened metal"],
+                "elements": ["cuirass with lion motif", "pauldrons", "gauntlets", "greaves"],
+                "adornment": "elaborate engravings and patterns"
+            },
+            "clothing": {
+                "cape": "{argument name="cape color" default="flowing, crimson red"}, attached at shoulders"
+            },
+            "weapons": {
+                "main": {
+                    "type": "longsword with ornate golden hilt",
+                    "position": "held low in right hand"
+                }
+            }
+        }
+    },
+    "scene_dynamics": {
+        "event": "mid-battle devastation / dynamic action scene",
+        "foreground": {
+            "elements": ["prone bodies", "fallen weapons", "upturned dirt"]
+        },
+        "background": {
+            "atmosphere": "chaotic, dusty battlefield",
+            "action": [
+                "a male warrior on the left falling backward, losing a shield and sword",
+                "a male warrior on the right flailing and falling, arms up",
+                "mid-air objects"
+            ]
+        },
+        "flying_objects": {
+            "items": ["multiple swords spinning", "shrapnel", "dirt clumps", "armor fragments"],
+            "effect": "dynamic frozen motion"
+        }
+    },
+    "environment": {
+        "ground": "dry, tilled earth and debris",
+        "sky": "clear, golden hour sunset, hazy from dust",
+        "depth": "deep field, indicating a large army battle in the far background"
+    },
+    "composition": {
+        "main_subject_position": "dead center, full body, dominating the frame",
+        "framing": "lower camera angle looking up to enhance power",
+        "balance": "symmetrical center with dynamic chaos radiating outward",
+        "focus": "sharp focus on the central woman and her armor; background elements in motion blur"
+    },
+    "lighting": {
+        "source": "backlit by a setting sun (golden hour)",
+        "quality": "warm, soft, directional",
+        "effects": ["strong rim lighting on hair and cape", "golden reflections on armor", "dust particles illuminated in the air"]
+    },
+    "style": {
+        "type": "high-quality cinematic still frame",
+        "aesthetic": "dark fantasy, realism",
+        "color_palette": ["deep reds", "rich golds", "blackened steel", "warm earth tones"],
+        "texture": "highly detailed textures on leather, metal, and fabric"
+    }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1777792438864_li8v7g_HHR3Vs_bsAAIC7A.jpg" width="600" alt="Game Asset - Heroic Fantasy Warrior Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [RM_Pets & Animals](https://x.com/RM_uii)
+- **Source:** [Twitter Post](https://x.com/RM_uii/status/2050394948265275716)
+- **Published:** May 2, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=17516)**
+
+---
+
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 13075 more prompts not shown here
+### 🎯 13074 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5930,6 +5976,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T08:29:26.776Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-09T12:13:58.674Z</sub>
 
 </div>
