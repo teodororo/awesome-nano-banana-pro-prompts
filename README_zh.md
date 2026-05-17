@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **13494** |
+| 📝 提示词总数 | **13491** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年5月17日星期日 UTC 08:40:02** |
+| 🔄 最后更新 | **2026年5月17日星期日 UTC 12:14:22** |
 
 </div>
 
@@ -2120,47 +2120,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社交媒体帖子 - 复古弗朗茨·贝肯鲍尔足球场肖像
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一张写实的复古风格图像，展示足球传奇人物弗朗茨·贝肯鲍尔身穿 1974 年德国国家队队服在球场内传球的场景。
-
-#### 📝 提示词
-
-```
-在足球场内，{argument name="player name" default="弗朗茨·贝肯鲍尔"} 正在向前传球。身穿的是 {argument name="year" default="1974"} 年德国国家队队服。周围的球员处于虚化状态。这是一张写实但略带复古风格的图像。尺寸为 9:16。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779002364135_shlt84_HIYYcjDaEAAfzw1.jpg" width="600" alt="社交媒体帖子 - 复古弗朗茨·贝肯鲍尔足球场肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779002364051_szuelq_HIYYeATboAAuXGz.jpg" width="600" alt="社交媒体帖子 - 复古弗朗茨·贝肯鲍尔足球场肖像 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [山田イトウ｜還暦AI伴走者](https://x.com/I_Yamada_AI)
-- **来源:** [Twitter Post](https://x.com/I_Yamada_AI/status/2055490924453695559)
-- **发布时间:** 2026年5月16日
-- **多语言:** ja
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20774)**
-
----
-
-### No. 29: 社交媒体帖子 - Steve 和 Dustin 的相册
+### No. 28: 社交媒体帖子 - Steve 和 Dustin 的相册
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2194,7 +2154,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 社交媒体帖子 - 城市低角度猫咪肖像
+### No. 29: 社交媒体帖子 - 城市低角度猫咪肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2228,7 +2188,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社交媒体帖子 - 《怪奇物语》女性角色相册
+### No. 30: 社交媒体帖子 - 《怪奇物语》女性角色相册
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2274,7 +2234,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 32: 社交媒体帖子 - 《怪奇物语》三人组相册
+### No. 31: 社交媒体帖子 - 《怪奇物语》三人组相册
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2308,7 +2268,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 33: 社交媒体帖子 - 花园时尚大片女性人像
+### No. 32: 社交媒体帖子 - 花园时尚大片女性人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2339,6 +2299,58 @@ https://t.co/QxbYpfFVj6
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20457)**
+
+---
+
+### No. 33: 社交媒体帖子 - 古罗马露台时尚肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一幅展现现代优雅女性的时尚肖像，她斜倚在古罗马露台的深红色天鹅绒长沙发上。
+
+#### 📝 提示词
+
+```
+一位迷人女性那永恒的凝视，她温暖的波浪卷发捕捉着阳光，斜倚在天鹅绒长沙发那浓郁的 {argument name="background color" default="深红色"} 背景前，直视镜头。她展现出一种现代优雅的视觉美感，身着 {argument name="top" default="金色无袖短款背心"}，宽松的剪裁配以细肩带，侧面深开叉设计显露出由闪烁亮片、精致立体花朵和灵动流苏组成的肌肤，深领口设计衬托出她的双腿。空气中弥漫着古罗马风格露台的气息，被阳光亲吻的石柱如哨兵般伫立，一座刻有“Keor”小字样的大型陶土瓮中盛放着向天空献上的繁茂花束。深胭脂红色的粗边框映衬着她，远处的罗马神庙矗立在郁郁葱葱的山坡上，背景是柔和的蓝色苍穹。强烈而自然的金色阳光雕琢着她的五官，使身上的装饰熠熠生辉。这是一幅以电影般的优雅与诗意张力捕捉到的高级时尚肖像。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778915252142_w4fnfg_HIYxva5XcAAywwd.jpg" width="600" alt="社交媒体帖子 - 古罗马露台时尚肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778915252147_9suba3_HIYxvhVX0AA8hXy.jpg" width="600" alt="社交媒体帖子 - 古罗马露台时尚肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778915252138_jeb8mt_HIYxvowXkAAcmJs.jpg" width="600" alt="社交媒体帖子 - 古罗马露台时尚肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778915252865_szgdhu_HIYxvxeXoAAJD8v.jpg" width="600" alt="社交媒体帖子 - 古罗马露台时尚肖像 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [KeorUnreal](https://x.com/KeorUnreal)
+- **来源:** [Twitter Post](https://x.com/KeorUnreal/status/2055384987525108196)
+- **发布时间:** 2026年5月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20420)**
 
 ---
 
@@ -3950,47 +3962,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 72: 漫画 / 故事板 - 《Dragon Mark Warrior》电影海报
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张令人惊叹的双重曝光电影海报，展现了一位战士、中国古代宝塔和樱花，并点缀着熔金质感。
-
-#### 📝 提示词
-
-```
-使用来自 {argument name="reference" default="参考图像"} 的完全相同的人脸，并生成一张令人惊叹的双重曝光电影海报，主角为 {argument name="subject" default="参考图像中的男子"}，拥有轮廓分明的下颌线和精致的五官。他巨大的肖像占据了海报上半部分，复杂的金色龙纹刺青在他颧骨和下颌处蔓延，散发着微光。在他的剪影中嵌入：穿过云雾的中国古代宝塔、绽放着深洋红色和紫粉色的樱花树、化作墨迹的飞龙剪影，以及在深红色和玫瑰金中旋转飘落的花瓣。海报中部，同一名男子身着戏剧性的黑色战士长袍全身出镜，飘逸的深色布料在风中舞动，手持闪亮的弯刀，周围环绕着旋转的暗黑墨色能量和飘落的樱花。背景为忧郁的灰烬色、深靛蓝色的雾气，以及山峰后温暖的琥珀色月光。左上角：优雅的衬线字体标语——“命运由鲜血书写，荣誉在沉默中铸就。”右上角：铁锈红墨色的中国书法字。底部：巨大的笔触标题“DRAGON MARK WARRIOR”，采用质感白金色涂料，副标题为“传奇重生，真心错付”，以及精致小写字母的“即将上映——IMAX 震撼呈现”。色彩分级：以去饱和的水墨洗为基调，点缀着鲜红色、紫罗兰色樱花、熔金和深青色阴影。画面中散布着墨迹飞溅的细节。左下角雾气中柔和地融入了细微的水印“OzairAI”。垂直 9:13 比例。超写实，8K，电影级色彩分级。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779002363186_x9f8ua_HIamxIAaIAAODS6.jpg" width="600" alt="漫画 / 故事板 - 《Dragon Mark Warrior》电影海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779002363245_zskntx_HIamxL-bAAACgkF.jpg" width="600" alt="漫画 / 故事板 - 《Dragon Mark Warrior》电影海报 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **来源:** [Twitter Post](https://x.com/Ozayrr_irl/status/2055513647695503595)
-- **发布时间:** 2026年5月16日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20771)**
-
----
-
-### No. 73: 漫画 / 故事板 - 日落时分河畔拉小提琴的印象派水彩画
+### No. 72: 漫画 / 故事板 - 日落时分河畔拉小提琴的印象派水彩画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4024,7 +3996,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 74: 漫画 / 故事板 - 蒸汽朋克女突击队员肖像
+### No. 73: 漫画 / 故事板 - 蒸汽朋克女突击队员肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4058,7 +4030,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 75: 漫画 / 故事板 - 粗犷都市风格铅笔素描肖像
+### No. 74: 漫画 / 故事板 - 粗犷都市风格铅笔素描肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4092,7 +4064,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 76: 漫画 / 故事板 - 充满童趣的棒棒糖与鸽子插画
+### No. 75: 漫画 / 故事板 - 充满童趣的棒棒糖与鸽子插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4126,7 +4098,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 77: 漫画 / 故事板 - 赛博朋克霓虹花卉肖像
+### No. 76: 漫画 / 故事板 - 赛博朋克霓虹花卉肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4160,7 +4132,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 78: 漫画 / 故事板 - 日式水墨风儿童插画
+### No. 77: 漫画 / 故事板 - 日式水墨风儿童插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4200,7 +4172,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 79: 漫画 / 故事板 - 心灵伴侣可视化
+### No. 78: 漫画 / 故事板 - 心灵伴侣可视化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4234,7 +4206,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 80: 漫画 / 故事板 - 身着黑色纱丽的女性三联画肖像
+### No. 79: 漫画 / 故事板 - 身着黑色纱丽的女性三联画肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4268,7 +4240,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 81: 漫画 / 故事板 - 混乱蜡笔素描风格
+### No. 80: 漫画 / 故事板 - 混乱蜡笔素描风格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4302,7 +4274,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 82: 漫画 / 故事板 - 异想天开的紫色河马插画
+### No. 81: 漫画 / 故事板 - 异想天开的紫色河马插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4336,7 +4308,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 83: 漫画 / 故事板 - 奇幻林地水彩画系列
+### No. 82: 漫画 / 故事板 - 奇幻林地水彩画系列
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4388,7 +4360,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 84: 漫画 / 故事板 - 奇幻田野日志插画
+### No. 83: 漫画 / 故事板 - 奇幻田野日志插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4422,7 +4394,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 85: 漫画 / 故事板 - 鱼眼视角拍摄
+### No. 84: 漫画 / 故事板 - 鱼眼视角拍摄
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4453,6 +4425,64 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=19985)**
+
+---
+
+### No. 85: 漫画 / 故事板 - 水墨图书馆插画
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个高端编辑插画提示词，用于在图书馆背景下创作优雅的坐姿肖像，采用水墨技法。
+
+#### 📝 提示词
+
+```
+{
+    "subject": {
+      "character": "一位英俊的年轻男子，留着浓密且微卷的 {argument name="hair color" default="银灰色头发"}，有着浅棕色的眼睛",
+      "expression": "神情沉稳且富有书卷气，直视观者",
+      "clothing": "优雅的 {argument name="suit color" default="米色三件套西装"}，搭配挺括的白色衬衫和 {argument name="tie color" default="深青色领带"}",
+      "pose": "舒适地坐在毛绒扶手椅上，双腿交叠，膝上摊开着一本古籍"
+    },
+    "setting": {
+      "environment": "经典且精致的私人图书馆或书房",
+      "elements": [
+        "一盏复古黄铜落地灯，提供温暖且集中的光线",
+        "背景中绘有书架草图和堆叠的书籍"
+      ]
+    },
+    "artistic_style": {
+      "medium": "奢华水墨渲染插画",
+      "technique": "素描墨线结合柔和且富有质感的水彩渐变",
+      "color_palette": "柔和的中性色、奶油色和金色，点缀一抹深青色",
+      "accents": "金箔溅射和墨滴效果，营造高端编辑质感"
+    },
+    "composition": {
+      "framing": "全身坐姿构图，居中，带有干净的白色边框",
+      "lighting": "来自左上方灯光的柔和暖光"
+    }
+  }
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778657215243_5p8ym5_HII50SXXYAAlAVm.jpg" width="600" alt="漫画 / 故事板 - 水墨图书馆插画 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Zoraiz Ai](https://x.com/YaZoraiz)
+- **来源:** [Twitter Post](https://x.com/YaZoraiz/status/2054267965869326551)
+- **发布时间:** 2026年5月12日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=19769)**
 
 ---
 
@@ -4557,59 +4587,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 89: 产品营销 - 京都抹茶拿铁促销横幅
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-用于为一家在京都新开业的抹茶拿铁店制作营销横幅的提示词，包含具体价格详情。
-
-#### 📝 提示词
-
-```
-为一家在 {argument name="location" default="京都"} 新开业的店铺制作一张 {argument name="item" default="抹茶拿铁"} 促销横幅，价格为 {argument name="price" default="680 日元"}！
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779002368184_8og9l0_HIbLwB8asAAdKf7.jpg" width="600" alt="产品营销 - 京都抹茶拿铁促销横幅 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779002367933_x403dd_HIbL43bbkAAu_6S.jpg" width="600" alt="产品营销 - 京都抹茶拿铁促销横幅 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779002368041_n0kx28_HIbL8eZbwAAAVH7.jpg" width="600" alt="产品营销 - 京都抹茶拿铁促销横幅 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779002369304_0nid0z_HIbL_S0aEAEdkme.jpg" width="600" alt="产品营销 - 京都抹茶拿铁促销横幅 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [キャット@AIをマスターせよ](https://x.com/ai_skill_master)
-- **来源:** [Twitter Post](https://x.com/ai_skill_master/status/2055556455525417121)
-- **发布时间:** 2026年5月16日
-- **多语言:** ja
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20780)**
-
----
-
-### No. 90: 产品营销 - 奢华美妆品牌广告大片
+### No. 89: 产品营销 - 奢华美妆品牌广告大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4661,7 +4639,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 91: 产品营销 - 超现实产品汽水飞溅
+### No. 90: 产品营销 - 超现实产品汽水飞溅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4700,7 +4678,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 92: 产品营销 - 菲律宾漂浮岛屿旅行肖像
+### No. 91: 产品营销 - 菲律宾漂浮岛屿旅行肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4733,7 +4711,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 93: 产品营销 - 美妆拼贴唇膏网格
+### No. 92: 产品营销 - 美妆拼贴唇膏网格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4779,7 +4757,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 94: 产品营销 - 微距美妆人像摄影
+### No. 93: 产品营销 - 微距美妆人像摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4813,7 +4791,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 95: 产品营销 - 未来感创作者品牌宣传活动
+### No. 94: 产品营销 - 未来感创作者品牌宣传活动
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4847,59 +4825,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 96: 产品营销 - 古罗马露台时尚肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅展现现代优雅女性的时尚肖像，她斜倚在古罗马露台的深红色天鹅绒长沙发上。
-
-#### 📝 提示词
-
-```
-一位迷人女性那永恒的凝视，她温暖的波浪卷发捕捉着阳光，斜倚在天鹅绒长沙发那浓郁的 {argument name="background color" default="深红色"} 背景前，直视镜头。她展现出一种现代优雅的视觉美感，身着 {argument name="top" default="金色无袖短款背心"}，宽松的剪裁配以细肩带，侧面深开叉设计显露出由闪烁亮片、精致立体花朵和灵动流苏组成的肌肤，深领口设计衬托出她的双腿。空气中弥漫着古罗马风格露台的气息，被阳光亲吻的石柱如哨兵般伫立，一座刻有“Keor”小字样的大型陶土瓮中盛放着向天空献上的繁茂花束。深胭脂红色的粗边框映衬着她，远处的罗马神庙矗立在郁郁葱葱的山坡上，背景是柔和的蓝色苍穹。强烈而自然的金色阳光雕琢着她的五官，使身上的装饰熠熠生辉。这是一幅以电影般的优雅与诗意张力捕捉到的高级时尚肖像。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778915252142_w4fnfg_HIYxva5XcAAywwd.jpg" width="600" alt="产品营销 - 古罗马露台时尚肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778915252147_9suba3_HIYxvhVX0AA8hXy.jpg" width="600" alt="产品营销 - 古罗马露台时尚肖像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778915252138_jeb8mt_HIYxvowXkAAcmJs.jpg" width="600" alt="产品营销 - 古罗马露台时尚肖像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778915252865_szgdhu_HIYxvxeXoAAJD8v.jpg" width="600" alt="产品营销 - 古罗马露台时尚肖像 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [KeorUnreal](https://x.com/KeorUnreal)
-- **来源:** [Twitter Post](https://x.com/KeorUnreal/status/2055384987525108196)
-- **发布时间:** 2026年5月15日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20420)**
-
----
-
-### No. 97: 产品营销 - 格纹时尚肖像摄影
+### No. 95: 产品营销 - 格纹时尚肖像摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4951,7 +4877,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 98: 产品营销 - 俏皮美妆杂志特写
+### No. 96: 产品营销 - 俏皮美妆杂志特写
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5057,7 +4983,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 99: 产品营销 - 台场漂移风格大片
+### No. 97: 产品营销 - 台场漂移风格大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5093,7 +5019,41 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 100: 电商主图 - 极简主义水类商业摄影
+### No. 98: 产品营销 - 橙色色块时尚肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张高对比度的编辑风格肖像，展现了一位身着黑色连衣裙的女性，背景为鲜艳的橙色。
+
+#### 📝 提示词
+
+```
+这张竖版时尚肖像展示了一位 {argument name="subject" default="女性"} 的侧面姿态，面部清晰可见，表情锐利且专注。她身着一件 {argument name="outfit" default="剪裁利落的长袖黑色连衣裙"}，完全遮盖了背部，去掉了原始参考图中的露背细节。构图采用了大胆的色块风格，将灰度色调的人物主体置于纯色的 {argument name="background color" default="鲜艳橙色"} 背景之上。为了完善整体造型，她搭配了同色系的橙色厚底高跟鞋，营造出一种高对比度且现代的编辑审美。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778915252391_h9kqdz_HIXIgcWXEAAIjmx.jpg" width="600" alt="产品营销 - 橙色色块时尚肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Minahil](https://x.com/Minahil42298354)
+- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2055269267902242983)
+- **发布时间:** 2026年5月15日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20419)**
+
+---
+
+### No. 99: 电商主图 - 极简主义水类商业摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5127,7 +5087,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 101: 电商主图 - 红发女性泳装摄影棚肖像
+### No. 100: 电商主图 - 红发女性泳装摄影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5166,7 +5126,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 102: 电商主图 - 地中海沙拉美食摄影
+### No. 101: 电商主图 - 地中海沙拉美食摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5216,7 +5176,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 103: 电商主图 - 奢华彩妆盘广告
+### No. 102: 电商主图 - 奢华彩妆盘广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5250,7 +5210,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 104: 电商主图 - 电影感化妆品产品摄影
+### No. 103: 电商主图 - 电影感化妆品产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5284,7 +5244,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 105: 电商主图 - 奢华美妆品牌信息图
+### No. 104: 电商主图 - 奢华美妆品牌信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5318,7 +5278,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 106: 电商主图 - 奢华护肤品产品摄影
+### No. 105: 电商主图 - 奢华护肤品产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5352,7 +5312,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 107: 电商主图 - 带有抽象图案的时尚摄影棚人像
+### No. 106: 电商主图 - 带有抽象图案的时尚摄影棚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5386,7 +5346,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 108: 电商主图 - 舒适英式小屋内景与笔记本电脑
+### No. 107: 电商主图 - 舒适英式小屋内景与笔记本电脑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5426,7 +5386,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 109: 电商主图 - 超写实精品店镜面自拍
+### No. 108: 电商主图 - 超写实精品店镜面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5554,7 +5514,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 110: 电商主图 - 复古欧式踏板车骑行
+### No. 109: 电商主图 - 复古欧式踏板车骑行
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5588,7 +5548,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 111: 电商主图 - 有机护肤品广告
+### No. 110: 电商主图 - 有机护肤品广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5622,7 +5582,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 112: 电商主图 - 奢华美妆产品摄影
+### No. 111: 电商主图 - 奢华美妆产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5656,7 +5616,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 113: 电商主图 - 卡通猫咪图案 T 恤样机
+### No. 112: 电商主图 - 卡通猫咪图案 T 恤样机
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5689,7 +5649,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 114: 电商主图 - 照片级真实感汽车转换
+### No. 113: 电商主图 - 照片级真实感汽车转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5723,7 +5683,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 115: 电商主图 - 火龙果汁爆炸感摄影
+### No. 114: 电商主图 - 火龙果汁爆炸感摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5757,7 +5717,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 116: 电商主图 - 奢华计时码表微距设计
+### No. 115: 电商主图 - 奢华计时码表微距设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5791,7 +5751,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 117: 电商主图 - 柑橘类产品摄影
+### No. 116: 电商主图 - 柑橘类产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5825,7 +5785,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 118: 电商主图 - 编辑级微距马克杯设计
+### No. 117: 电商主图 - 编辑级微距马克杯设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5859,7 +5819,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 119: 游戏素材 - “魂系”风格蜗牛生物设计
+### No. 118: 游戏素材 - “魂系”风格蜗牛生物设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5893,7 +5853,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 120: 游戏素材 - 名人风暴兵风格肖像
+### No. 119: 游戏素材 - 名人风暴兵风格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5943,13 +5903,116 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
+### No. 120: 游戏素材 - 夜色中的人形机甲机器人
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+这是一个复杂的电影级提示词，描述了一个由广播车零件组装而成的 15 英尺高人形机甲，背景为霓虹蓝光闪烁的雨中城市环境。
+
+#### 📝 提示词
+
+```
+{
+  "format": "GPT Image 的单帧电影画面",
+  "technical_specs": {
+    "camera": "低角度拍摄，浅景深",
+    "lighting": "夜景，霓虹蓝点缀光，潮湿表面",
+    "quality": "超精细，4K，照片级 CGI"
+  },
+  
+  "main_subject": {
+    "type": "大型人形机甲机器人，15 英尺高",
+    "construction": "由 {argument name="mecha parts" default="黑色广播车零件"} 组装而成 - 可见车辆底盘面板，车轮转化为腿部关节，胸前装有卫星天线",
+    "details": [
+      "哑光黑色金属机身，配有蓝色 LED 灯带",
+      "两个巨大的黑胶唱片（类似 DJ 打碟机盘面）在肩部缓慢旋转 - 黑色唱片，中心带有发光的蓝色标签",
+      "{argument name="brand logo" default="VTX 标志"} 在胸部中心发出蓝光",
+      "带有外露活塞的机械腿",
+      "头部有两个明亮的蓝色前照灯眼睛",
+      "手臂装饰有 DJ 混音器的推杆和旋钮细节"
+    ],
+    "pose": "直立站姿，右脚踩在开裂的地面上，左腿微屈"
+  },
+
+  "person_on_mecha": {
+    "position": "站在机甲头部上方",
+    "identity": "{argument name="subject identity" default="拉丁裔男性，40 岁出头，光头"}",
+    "clothing": "深蓝色夹克，黑色长裤，靴子",
+    "pose": "自信地站立，一只手握住把手，另一只手握拳高举",
+    "expression": "冷静、自信，目视前方"
+  },
+
+  "environment": {
+    "location": "夜间潮湿的沥青路面",
+    "background": "带有霓虹灯招牌的城市仓库，工业建筑",
+    "weather": "大雨，地面水坑反射着蓝色光芒",
+    "ground": "机甲脚下开裂的路面，可见冲击造成的损坏"
+  },
+
+  "lighting_and_color": {
+    "primary": "来自机甲 LED 和旋转唱片中心的冷蓝色霓虹光",
+    "secondary": "来自机械关节的暖橙色火花",
+    "atmosphere": "阴郁的暗夜，雨天，潮湿的倒影",
+    "key_colors": "哑光黑，电光蓝，深灰色沥青"
+  },
+
+  "action_frozen": "踏步瞬间 - 右脚在路面上踩出裂纹，肩部的黑胶唱片带着蓝色光轨缓慢旋转，腿部关节处可见火花，周围空气中凝固着雨滴",
+
+  "avoid": [
+    "任何形式的武器",
+    "大炮或枪支",
+    "火或火焰",
+    "有机恐龙特征",
+    "绿色",
+    "森林或树木",
+    "多人",
+    "手持武器",
+    "过多的飞溅碎片"
+  ]
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778657217966_fzwai4_HIJ8WkEWUAA16j7.jpg" width="600" alt="游戏素材 - 夜色中的人形机甲机器人 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778657217951_zs6j44_HIJ8Wg-WIAAi3HH.jpg" width="600" alt="游戏素材 - 夜色中的人形机甲机器人 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1778657217989_nusj6e_HIJ8WjmWkAE8zfp.jpg" width="600" alt="游戏素材 - 夜色中的人形机甲机器人 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [RobertZalvador](https://x.com/otroAIguy)
+- **来源:** [Twitter Post](https://x.com/otroAIguy/status/2054341294219227251)
+- **发布时间:** 2026年5月12日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=19773)**
+
+---
+
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 13374 更多提示词未在此显示
+### 🎯 13371 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6012,6 +6075,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-17T08:40:02.254Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-17T12:14:22.312Z</sub>
 
 </div>
